@@ -1,4 +1,5 @@
-const api = "ec7d44c7f42442da5f87170a8dc04a93";
+const api = "ec7d44c7f42442da5f8717**********";
+//Replace your api
 
 window.addEventListener("load", () => {
     //longtitude and latitude at FPT university
